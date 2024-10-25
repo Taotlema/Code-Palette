@@ -10,7 +10,7 @@ Code-Palette was created so I could demonstrate some of the programming language
 - [License](#liscense)
 
 ## Installation
-Seeing as this is a showcase of code I have worked on, it wouldn't seem farfetch to try and download the files here to test it out. In order to test my C or Python programs I would sugguest using an online IDE. However, for my Java programs some require multiple files to run, so downloading their respective folders onto your machine and running them in an IDE such as VsCodewill be needed.
+Seeing as this is a showcase of code I have worked on, it wouldn't seem farfetch to try and download the files here to test it out. In order to test my C or Python programs I would sugguest using an online IDE. However, for my Java programs some require multiple files to run, so downloading their respective folders onto your machine and running them in an IDE such as VsCode will be needed.
 
 ## Usage
 Other than observing and testing out these programs. There isn't any utility to be offered. At best these programs can be used for inspiration.
