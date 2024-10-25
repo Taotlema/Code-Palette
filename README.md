@@ -1,7 +1,7 @@
 # Miscellanous-Languages
 
 ## About the Project
-Miscellanous-Languages was created so I could demonstrate some of the programming languages and their features I have had expose to and experience working with. A majority of the code that is showcased are not fully functional applications in a professional sense. REally, this is a collection of projets, assignments, and personal practice I have accumulated as a Computer Science Student at the University of North Carolina at Charlotte. This features, programming languages such as ** Java **, ** Python **, and ** C **. This respository is due to be expanded on with more of the code I have worked on.
+Miscellanous-Languages was created so I could demonstrate some of the programming languages and their features I have had expose to and experience working with. A majority of the code that is showcased are not fully functional applications in a professional sense. REally, this is a collection of projets, assignments, and personal practice I have accumulated as a Computer Science Student at the University of North Carolina at Charlotte. This features, programming languages such as **Java**, **Python**, and **C**. This respository is due to be expanded on with more of the code I have worked on.
 
 ## Table of Contents
 - [Installation](#installation)
